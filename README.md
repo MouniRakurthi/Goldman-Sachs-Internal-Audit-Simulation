@@ -1,4 +1,4 @@
-# Goldman-Sachs-Internal-Audit-Simulation
+# Goldman-Sachs-Internal-Audit-Job-Simulation
 Goldman Sachs Internal Audit Job Simulation completed via Forage — Risk Assessment &amp; GBM Audit Analysis
 ## 🔗 Links
 - 🏦 Forage Program: https://www.theforage.com/simulations/goldman-sachs/internal-audit-j8c6/completed
